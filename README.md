@@ -8,7 +8,7 @@ _by Matt Colbert and Mike Colbert, January 2023_
 
 According to PEW Research, 96% of adults aged 18-29 check reviews before making a purchase. But do higher ratings actually lead to more video game sales? This project explores the relationship between review scores and sales figures to determine if well-rated games sell better or if niche games with dedicated fanbases skew the data.
 
-This repository publishes the website. You can read the full paper at: https://akoratpallikar.me/
+This repository publishes the website. You can read the full paper at: https://amoghkoratpallikar.com/
 
 ![Two people playing video games](jeshoots-com-eCktzGjC-iU-unsplash.jpg)
 
