@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  /* background-color: pink;
+    color: green; */
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Eczar", serif;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+
+p {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 1.5rem;
+  padding: 2px;
+}
+
+a:link,
+a:visited {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: black;
+}
+
+a:active {
+  font-size: 5rem;
+}
+header {
+  background-color: lightblue;
+}
+
+img {
+  max-width: 800px;
+  max-height: auto;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #111111;
+}
+
+table,
+td,
+th {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+thead {
+  background-color: lightgray;
+}
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+table#games_sold {
+  background-color: pink;
+  border-color: black;
+}
+
+.italic {
+  font-style: italic;
+}
+.bold {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+.underline {
+  text-decoration: underline;
+}
+.info {
+  background-color: lightblue;
+}
